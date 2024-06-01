@@ -1,8 +1,8 @@
-# Code, software and data for Liu et al A high-density probe for brain-wide recordings in nonhuman primates
+# Code, software and data for Liu et al A high-density 1024-channel probe for brain-wide recordings in nonhuman primates
 
 ## Introduction
 
-This repository stores code, software and data of the paper _A high-density probe for brain-wide recordings in nonhuman primates_ by Liu et al.
+This repository stores code, software and data of the paper _A high-density 1024-channel probe for brain-wide recordings in nonhuman primates_ by Liu et al.
 
 ## Repository Structure
 
